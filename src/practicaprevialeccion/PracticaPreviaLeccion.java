@@ -17,6 +17,20 @@ public class PracticaPreviaLeccion {
         // TODO code application logic here
         
         System.out.println("practica definitiva XD");
+        
+        int primerNumero=1;
+         var nombre = "Oswaldo";
+        System.out.println("Nombre:" + nombre);
+
+        var apellido = "Bifarini";
+        System.out.println("Apellido:" + apellido);
+
+        var edad = 23;
+        System.out.println("Edad:" + edad);
+
+        var tipoSangre = 'A';
+        System.out.println("Grupo sanguineo:" + tipoSangre);
+    }
     }
     
-}
+
